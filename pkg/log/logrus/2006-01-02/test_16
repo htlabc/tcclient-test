@@ -1,0 +1,9 @@
+time="2021-08-11T16:36:30+08:00" level=info msg="????"
+time="2021-08-11T16:38:38+08:00" level=info msg="????" func=githup.com/htl/tcclienttest/pkg/log/logrus.TestLogrusHook file="E:/工作目录/cvte/tcclient-test/pkg/log/logrus/logger_test.go:52"
+time="2021-08-11T17:07:37+08:00" level=info msg="????" func=githup.com/htl/tcclienttest/pkg/log/logrus.TestLogrusHook file="E:/工作目录/cvte/tcclient-test/pkg/log/logrus/logger_test.go:63"
+time="2021-08-11T17:15:14+08:00" level=info msg="????" func=githup.com/htl/tcclienttest/pkg/log/logrus.TestLogrusHook file="E:/工作目录/cvte/tcclient-test/pkg/log/logrus/logger_test.go:63"
+time="2021-08-11T17:20:33+08:00" level=info msg="????" func=githup.com/htl/tcclienttest/pkg/log/logrus.TestLogrusHook file="E:/工作目录/cvte/tcclient-test/pkg/log/logrus/logger_test.go:63"
+time="2021-08-11T17:21:45+08:00" level=info msg="????" func=githup.com/htl/tcclienttest/pkg/log/logrus.TestLogrusHook file="E:/工作目录/cvte/tcclient-test/pkg/log/logrus/logger_test.go:63"
+time="2021-08-11T17:25:13+08:00" level=info msg="????" func=githup.com/htl/tcclienttest/pkg/log/logrus.TestLogrusHook file="E:/工作目录/cvte/tcclient-test/pkg/log/logrus/logger_test.go:63" test=test
+time="2021-08-11T17:31:58+08:00" level=info msg="????" func=githup.com/htl/tcclienttest/pkg/log/logrus.TestLogrusHook file="E:/工作目录/cvte/tcclient-test/pkg/log/logrus/logger_test.go:64"
+time="2021-08-11T17:32:36+08:00" level=info msg="????" func=githup.com/htl/tcclienttest/pkg/log/logrus.TestLogrusHook file="E:/工作目录/cvte/tcclient-test/pkg/log/logrus/logger_test.go:64"
